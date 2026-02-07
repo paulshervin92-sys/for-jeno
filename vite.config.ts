@@ -15,6 +15,6 @@ export default defineConfig({
   },
   preview: {
     host: "0.0.0.0",
-    allowedHosts: "all"
+    allowedHosts: ["for-jeno-4.onrender.com"]
   }
 })
